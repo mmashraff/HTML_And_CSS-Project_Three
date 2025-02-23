@@ -676,11 +676,11 @@ a {
 
 @media(max-width: 500px) {
     .contact .box-email input[type="email"] {
-        padding-right: 80px;
+        padding-right: 90px;
     }
 
     .contact .box-email span {
-        right: 80px;
+        right: 90px;
     }
 }
 
