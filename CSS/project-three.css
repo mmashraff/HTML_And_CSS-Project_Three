@@ -671,16 +671,16 @@ a {
     position: absolute;
     top: 33px;
     right: 0;
-    font-size: 20px;
+    font-size: 25px;
 }
 
-@media(max-width: 400px) {
+@media(max-width: 500px) {
     .contact .box-email input[type="email"] {
-        padding-right: 100px;
+        padding-right: 80px;
     }
 
     .contact .box-email span {
-        right: 120px;
+        right: 80px;
     }
 }
 
